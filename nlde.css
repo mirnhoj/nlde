@@ -146,7 +146,7 @@ body {
   text-align: center;  
 }
 
-#infobox {
+#panel-layer-info {
   /* Position */
   position: absolute;
   right: 0px;
@@ -168,7 +168,7 @@ body {
 
 
 
-#frame-indicator {
+#panel-time {
   /* Position */
   position: absolute;
   right: 0px;
